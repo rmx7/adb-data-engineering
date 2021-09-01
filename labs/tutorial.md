@@ -36,9 +36,7 @@ In this exercise, you will learn how to create your Databricks workspace and set
 2. Navigate to Azure Databricks Page via menu or you can type on the search bar.
 3. Click Create button.
 4. Fill the information needed to create the workspace as shown below.
-
 ![test](media/workspace-1.JPG)
-
 5. Leave the rest as default.
 6. Click Review & Create.
 
