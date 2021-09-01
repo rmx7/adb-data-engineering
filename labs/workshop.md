@@ -66,7 +66,6 @@ In this exercise we will learn how to create the notebook and familiarize oursel
 ### Task 2: Testing out the notebook
 1. Make sure to check the notebook is attached to an active clustered indicated with green dot. You might need to start the cluster if it is in inactive state.
 ![Cluster state](media/notebook-3.JPG)
-
 ## Exercise 3: Understanding RDD
 todo
 
