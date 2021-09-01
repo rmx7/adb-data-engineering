@@ -39,6 +39,8 @@ In this exercise, you will learn how to create your Databricks workspace and set
 
 ![test](media/workspace-1.JPG)
 
+5. Leave the rest as default.
+6. Click Review & Create.
 
 ### Task 2: Setup Databricks All Purpose Cluster
 todo 
