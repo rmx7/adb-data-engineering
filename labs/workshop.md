@@ -51,10 +51,19 @@ In this exercise, you will learn how to create your Databricks workspace and set
 ![Databricks cluster configuration](media/workspace-4.JPG)
 
 ## Exercise 2: Setting up Databricks Notebook
-todo
+In this exercise you will learn how to create the notebook and familiarize ourself with the notebook functionality.
 
 ### Task 1: Creating the notebook
-todo
+1. Hover to the left sidebar menu.
+2. Select Create.
+3. Select notebook.
+![Create new notebook](media/create_menu.JPG)
+4. Fill in the name of the notebook, runtime, and the target cluster where the notebook will run.
+![Notebook creation](media/notebook1.JPG)
+5. Even if we choose python as the runtime at the beginning, we can change the runtime using % directive later in the cell.
+6. Click create then will be shown with the notebook interface we just created.
+![Notebook interface](media/notebook2.JPG)
+
 
 ### Task 2: Testing out the notebook
 todo
