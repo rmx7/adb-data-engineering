@@ -22,18 +22,53 @@
     - [Task 2: Creating the ETL pipeline ](#task-1-setting-up-azure-data-factory)
   <!-- /TOC -->
 
-  # Azure Databricks Data Engineering Workshop
-  todo
+# Azure Databricks Data Engineering Workshop
+todo
 
-  ## Overview
-  todo
+## Overview
+todo
 
-  ## Exercise 1: Setting up Databricks Environment
-  todo
+## Exercise 1: Setting up Databricks Environment
+todo
 
-  ### Task 1: Setup Databricks Workspace
-  todo
+### Task 1: Setup Databricks Workspace
+todo
 
-  ### Task 2: Setup Databricks All Purpose Cluster
-  todo 
+### Task 2: Setup Databricks All Purpose Cluster
+todo 
 
+## Exercise 2: Setting up Databricks Notebook
+todo
+
+### Task 1: Creating the notebook
+todo
+
+### Task 2: Testing out the notebook
+todo
+
+## Exercise 3: Understanding RDD
+todo
+
+### Task 1: Handson RDD
+todo
+
+## Exercise 4: Understanding Dataframe
+todo
+
+### Task 1: Handson Dataframe
+todo
+
+## Exercise 5: Understanding Dataset
+todo
+
+### Task 1: Handson Dataset
+todo
+
+## Exercise 6: ETL with Databricks
+todo
+
+### Task 1: Setting Azure Data Factory
+todo
+
+### Task 2: Creating the ETL pipeline
+todo
