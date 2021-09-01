@@ -43,7 +43,14 @@ In this exercise, you will learn how to create your Databricks workspace and set
 6. Click Review & Create.
 
 ### Task 2: Setup Databricks All Purpose Cluster
-todo 
+1. Navigate to Azure Databricks Page.
+2. Select Databricks workspace that you just create.
+3. Click launch workspace. This will open a new window that will show the Azure Databricks dashboard.
+![Databricks launch workspace](media/workspace-2.JPG)
+4. Select new cluster.
+![Databricks create new cluster](media/workspace-3.JPG)
+5. Fill in cluster configuration.
+![Databricks cluster configuration](media/workspace-4.JPG)
 
 ## Exercise 2: Setting up Databricks Notebook
 todo
