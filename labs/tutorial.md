@@ -29,10 +29,16 @@ todo
 todo
 
 ## Exercise 1: Setting up Databricks Environment
-todo
+In this exercise, you will learn how to create your Databricks workspace and setting up the cluster.
 
 ### Task 1: Setup Databricks Workspace
-todo
+1. Navigate to azure portal.
+2. Navigate to Azure Databricks Page via menu or you can type on the search bar.
+3. Click Create button.
+4. Fill the information needed to create the workspace as shown below.
+
+![](media/workspace-1.jpg)
+
 
 ### Task 2: Setup Databricks All Purpose Cluster
 todo 
