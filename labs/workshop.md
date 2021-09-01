@@ -64,9 +64,10 @@ In this exercise we will learn how to create the notebook and familiarize oursel
 ![Notebook interface](media/notebook-2.JPG)
 
 ### Task 2: Testing out the notebook
-1. Make sure to check the notebook is attached to an active clustered indicated with green dot. You might need to start the cluster if it is in inactive state.
+1. Make sure to check the notebook is attached to an active clustered indicated with green dot.
 ![Cluster state](media/notebook-3.JPG)
-2. Try to run the following code to test the runtime.
+2. We might need to start the cluster if it is in inactive state.
+3. Try to run the following code to test the runtime.
 ```
 print("Hello World")
 ```
