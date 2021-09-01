@@ -68,9 +68,8 @@ In this exercise we will learn how to create the notebook and familiarize oursel
 ![Cluster state](media/notebook-3.JPG)
 2. We might need to start the cluster if it is in inactive state.
 3. Try to run the following code to test the runtime.
-```
-print("Hello World")
-```
+`print("Hello World")`
+
 ## Exercise 3: Understanding RDD
 todo
 
