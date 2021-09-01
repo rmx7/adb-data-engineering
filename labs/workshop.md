@@ -57,7 +57,9 @@ In this exercise you will learn how to create the notebook and familiarize ourse
 1. Hover to the left sidebar menu.
 2. Select Create.
 3. Select notebook.
+
 ![Create new notebook](media/create_menu.JPG)
+
 4. Fill in the name of the notebook, runtime, and the target cluster where the notebook will run.
 ![Notebook creation](media/notebook1.JPG)
 5. Even if we choose python as the runtime at the beginning, we can change the runtime using % directive later in the cell.
