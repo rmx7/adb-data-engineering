@@ -37,7 +37,7 @@ In this exercise, you will learn how to create your Databricks workspace and set
 3. Click Create button.
 4. Fill the information needed to create the workspace as shown below.
 
-![](media/workspace-1.jpg)
+![test](media/workspace-1.JPG)
 
 
 ### Task 2: Setup Databricks All Purpose Cluster
