@@ -58,14 +58,15 @@ In this exercise we will learn how to create the notebook and familiarize oursel
 2. Select Create then select Notebook.
 ![Create new notebook](media/create_menu.JPG)
 3. Fill in the name of the notebook, runtime, and the target cluster where the notebook will run.
-![Notebook creation](media/notebook-11.JPG)
+![Notebook creation](media/notebook-1.JPG)
 4. Even if we choose python as the runtime at the beginning, we can change the runtime using % directive later in the cell.
 5. Click create then will be shown with the notebook interface we just created.
 ![Notebook interface](media/notebook-2.JPG)
 
 ### Task 2: Testing out the notebook
 1. Make sure to check the notebook is attached to an active clustered indicated with green dot. You might need to start the cluster if it is in inactive state.
-![Cluster state](media/notebook-3.JPG)
+
+  ![Cluster state](media/notebook-3.JPG)
 2. Try to run the following code to test the runtime.
 ```
 print("Hello World")
