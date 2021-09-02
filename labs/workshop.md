@@ -21,10 +21,9 @@
   <!-- /TOC -->
 
 # Azure Databricks Data Engineering Workshop
-todo
 
 ## Overview
-todo
+At the end of this hands-on lab, you will be better able understand the concept of databricks such as workspace, notebook, cluster, and spark. 
 
 ## Exercise 1: Setting up Databricks Environment
 In this exercise, you will learn how to create your Databricks workspace and setting up the cluster.
@@ -88,11 +87,22 @@ In this exercise you will learn the basic of JVM based scala dataset
 ### Task 1: Handson Dataset
 Import notebooks/learning-dataset.sql and follow the instruction there
 
-## Exercise 5: ETL with Databricks
-todo
+## Exercise 5: Databricks Job
+In this exercise we will learn how to create a Databricks Job and run it using job cluster
 
-### Task 1: Setting Azure Data Factory
-todo
-
-### Task 2: Creating the ETL pipeline
-todo
+### Task 1: Creating the job cluster
+1. Navigate to the Job page.
+![Create job](media/job-1.JPG)
+2. Click the create job button. You can also create the job using the create menu in the sidebar then select job.
+3. Fill in the job name, select type notebook, and navigate through the popup then select `job-cluster-task` notebook
+![Select notebook](media/job-2.JPG)
+4. Configure the cluster as shown below.
+![Select notebook](media/job-3.JPG)
+5. Finish the job cluster configuration then hit save.
+![Select notebook](media/job-4.JPG)
+6. Run the job. Observer that a new active run job showing up on the Active Runs section.
+![Select notebook](media/job-5.JPG)
+7. Click "view details" to get into the execution details of the job.
+![Select notebook](media/job-6.JPG)
+8. Go back to the job1 page, see that the completed job is in the Completed Runs section.
+![Select notebook](media/job-7.JPG)
