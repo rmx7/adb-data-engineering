@@ -100,7 +100,7 @@ In this exercise we will learn how to create a Databricks Job and run it using j
 ![Select notebook](media/job-3.JPG)
 5. Finish the job cluster configuration then hit save.
 ![Select notebook](media/job-4.JPG)
-6. Run the job. Observer that a new active run job showing up on the Active Runs section.
+6. Run the job. Observe that a new active run job showing up on the Active Runs section.
 ![Select notebook](media/job-5.JPG)
 7. Click "view details" to get into the execution details of the job.
 ![Select notebook](media/job-6.JPG)
