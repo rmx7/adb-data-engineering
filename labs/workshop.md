@@ -11,11 +11,9 @@
   - [Exercise 2: Setting up Databricks Notebook](#exercise-2-setting-up-databricks-notebook)
     - [Task 1: Creating the notebook](#task-1-creating-the-notebook)
     - [Task 2: Testing out the notebook](#task-2-testing-out-the-notebook)
-  - [Exercise 3: Understanding RDD](#exercise-3-understanding-rdd)
-    - [Task 1: Handson RDD ](#task-1-handson-rdd)
-  - [Exercise 4: Understanding Dataframe](#exercise-4-understanding-dataframe)
+  - [Exercise 3: Understanding Dataframe](#exercise-3-understanding-dataframe)
     - [Task 1: Handson Dataframe ](#task-1-handson-rdd)
-  - [Exercise 5: Understanding Dataset](#exercise-3-understanding-dataset)
+  - [Exercise 4: Understanding Dataset](#exercise-4-understanding-dataset)
     - [Task 1: Handson Dataset ](#task-1-handson-dataset)
   - [Exercise 6: ETL with Databricks](#exercise-6-etl-with-databricks)
     - [Task 1: Setting Azure Data Factory ](#task-1-setting-up-azure-data-factory)
@@ -72,25 +70,25 @@ In this exercise we will learn how to create the notebook and familiarize oursel
 print("Hello World")
 ```
 
-## Exercise 3: Understanding RDD
-todo
+## Exercise 3: Understanding Dataframe
+In this exercise we will explore several dataframe functions and learn how to visualize it.
 
-### Task 1: Handson RDD
-todo
+### Task 1: Quickstart
+Import notebooks/quickstart.ipynb and follow the instruction there.
 
-## Exercise 4: Understanding Dataframe
-todo
+### Task 2: Learning dataframe
+Import notebooks/learning-dataframe.ipynb and follow the instruction there.
 
-### Task 1: Handson Dataframe
-todo
+### Task 3: Visualize dataframe
+Import notebooks/learning-visualization.sql and follow the instruction there
 
-## Exercise 5: Understanding Dataset
-todo
+## Exercise 4: Understanding Dataset
+In this exercise you will learn the basic of JVM based scala dataset
 
 ### Task 1: Handson Dataset
-todo
+Import notebooks/learning-dataset.sql and follow the instruction there
 
-## Exercise 6: ETL with Databricks
+## Exercise 5: ETL with Databricks
 todo
 
 ### Task 1: Setting Azure Data Factory
