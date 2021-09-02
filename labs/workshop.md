@@ -15,10 +15,11 @@
     - [Task 1: Handson Dataframe ](#task-1-handson-rdd)
   - [Exercise 4: Understanding Dataset](#exercise-4-understanding-dataset)
     - [Task 1: Handson Dataset ](#task-1-handson-dataset)
-  - [Exercise 6: ETL with Databricks](#exercise-6-etl-with-databricks)
-    - [Task 1: Setting Azure Data Factory ](#task-1-setting-up-azure-data-factory)
-    - [Task 2: Creating the ETL pipeline ](#task-1-setting-up-azure-data-factory)
-  <!-- /TOC -->
+  - [Exercise 5: Databricks Job](#exercise-5-databricks-job)
+    - [Task 1: Creating the job cluster ](#task-1-creating-the-job-cluster)
+    - [Task 2: Running the job](#task-1-running-the-job)
+
+<!-- /TOC --> 
 
 # Azure Databricks Data Engineering Workshop
 
@@ -100,9 +101,11 @@ In this exercise we will learn how to create a Databricks Job and run it using j
 ![Select notebook](media/job-3.JPG)
 5. Finish the job cluster configuration then hit save.
 ![Select notebook](media/job-4.JPG)
-6. Run the job. Observe that a new active run job showing up on the Active Runs section.
+
+### Task 2: Running the job
+1. Run the job. Observe that a new active run job showing up on the Active Runs section.
 ![Select notebook](media/job-5.JPG)
-7. Click "view details" to get into the execution details of the job.
+2. Click "view details" to get into the execution details of the job.
 ![Select notebook](media/job-6.JPG)
-8. Go back to the job1 page, see that the completed job is in the Completed Runs section.
+3. Go back to the job1 page, see that the completed job is in the Completed Runs section.
 ![Select notebook](media/job-7.JPG)
